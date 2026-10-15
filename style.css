@@ -1,0 +1,10 @@
+#about {
+  background: #162033;
+  color: white;
+  padding: 32px;
+  border-radius: 16px;
+}
+
+#about img {
+  border-radius: 50%;
+}
